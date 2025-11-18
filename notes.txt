@@ -1,2 +1,6 @@
+ HEAD
 dadadadededed
 dawid 22
+
+zzgcytzfcxz
+ conflict
