@@ -12,6 +12,10 @@ save)
 git commit -m "save $(date)"
 ;;
 
+push)
+git push
+;;
+
 reset)
 rm *.log
 ;;
